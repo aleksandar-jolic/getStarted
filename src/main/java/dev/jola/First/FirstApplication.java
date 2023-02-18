@@ -14,7 +14,7 @@ public class FirstApplication {
 		System.out.println("Novina");
 
 		System.out.println("Precina");
-
+		System.out.println("Milina");
 	}
 
 
